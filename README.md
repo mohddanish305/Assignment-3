@@ -1,16 +1,20 @@
-# assignment_3
+# Emoji Mood Counter App (Flutter)
 
-A new Flutter project.
+This Flutter app demonstrates the use of setState() to update UI dynamically.
 
-## Getting Started
+## Features
+- Interactive counter
+- Emoji changes based on counter value
+- Reset button
+- StatefulWidget implementation
 
-This project is a starting point for a Flutter application.
+## Concept Used
+The setState() method is used to notify Flutter that the state has changed,
+causing the UI to rebuild with updated values.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+(Add screenshots here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Author
+Mohd Danish
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
