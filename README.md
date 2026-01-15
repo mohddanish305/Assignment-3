@@ -4,17 +4,18 @@ A creative and interactive Flutter application demonstrating the powerful use of
 
 ## 📱 Screenshots
 
-![Screenshot 1](assets/screenshots/screenshot1.png)
-![Screenshot 2](assets/screenshots/screenshot2.png)
-![Screenshot 3](assets/screenshots/screenshot3.png)
+<p align="center">
+  <img src="assets/screenshots/screenshoot1.png" width="30%" />
+  <img src="assets/screenshots/screenshoot2.png" width="30%" />
+  <img src="assets/screenshots/screenshoot3.png" width="30%" />
+  <img src="assets/screenshots/screenshoot4.png" width="30%" />
+  <img src="assets/screenshots/screenshoot5.png" width="30%" />
+  <img src="assets/screenshots/screenshoot6.png" width="30%" />
+  <img src="assets/screenshots/screenshoot7.png" width="30%" />
+  <img src="assets/screenshots/screenshoot8.png" width="30%" />
+  <img src="assets/screenshots/screenshoot9.png" width="30%" />
+</p>
 
-![Screenshot 4](assets/screenshots/screenshot4.png)
-![Screenshot 5](assets/screenshots/screenshot5.png)
-![Screenshot 6](assets/screenshots/screenshot6.png)
-
-![Screenshot 7](assets/screenshots/screenshot7.png)
-![Screenshot 8](assets/screenshots/screenshot8.png)
-![Screenshot 9](assets/screenshots/screenshot9.png)
 
 ## ✨ Features
 
