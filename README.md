@@ -8,9 +8,15 @@ A creative and interactive Flutter application demonstrating the powerful use of
   <img src="assets/screenshots/screenshot1.png" width="30%" />
   <img src="assets/screenshots/screenshot2.png" width="30%" />
   <img src="assets/screenshots/screenshot3.png" width="30%" />
+</p>
+
+<p align="center">
   <img src="assets/screenshots/screenshot4.png" width="30%" />
   <img src="assets/screenshots/screenshot5.png" width="30%" />
   <img src="assets/screenshots/screenshot6.png" width="30%" />
+</p>
+
+<p align="center">
   <img src="assets/screenshots/screenshot7.png" width="30%" />
   <img src="assets/screenshots/screenshot8.png" width="30%" />
   <img src="assets/screenshots/screenshot9.png" width="30%" />
@@ -111,3 +117,4 @@ flutter run
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
