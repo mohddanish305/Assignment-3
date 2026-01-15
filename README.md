@@ -3,12 +3,15 @@
 A creative and interactive Flutter application demonstrating the powerful use of `setState()` for dynamic UI updates.
 
 ## 📱 Screenshots
+## 📱 Screenshots
 
-<div align="center">
-  <img src="assets/screenshots/screenshot1.png" width="250" alt="Initial State"/>
-  <img src="assets/screenshots/screenshot2.png" width="250" alt="Mid Progress"/>
-  <img src="assets/screenshots/screenshot3.png" width="250" alt="Legendary Mode"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohddanish305/Assignment-3/main/assets/screenshots/screenshot1.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/mohddanish305/Assignment-3/main/assets/screenshots/screenshot2.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/mohddanish305/Assignment-3/main/assets/screenshots/screenshot3.png" width="30%" />
+</p>
+
+*From left to right: Initial State, Mid Progress, Legendary Mode*
 
 ## ✨ Features
 
